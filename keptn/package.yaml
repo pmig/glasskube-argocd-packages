@@ -1,0 +1,8 @@
+apiVersion: packages.glasskube.dev/v1alpha1
+kind: Package
+metadata:
+  name: keptn
+spec:
+  packageInfo:
+    name: keptn
+    version: v0.10.0+1
