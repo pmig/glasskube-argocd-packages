@@ -1,8 +1,8 @@
 apiVersion: packages.glasskube.dev/v1alpha1
 kind: Package
 metadata:
-  name: keptn
+  name: cyclops
 spec:
   packageInfo:
-    name: keptn
-    version: v2.0.0-rc.2+1
+    name: cyclops
+    version: v0.2.0+1
